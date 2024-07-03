@@ -2,7 +2,7 @@
 
 ## Hi there, I am Shodiyor <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-[![Telegram Badge](https://img.shields.io/badge/@Muhammadamin0809-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Muhammadamin0809)](https://t.me/Muhammadamin0809)
+[![Telegram Badge](https://img.shields.io/badge/@ShodiyorErqoziyev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ShodiyorErqoziyev)](https://t.me/ShodiyorErqoziyev)
 
 <h2 align="left">👨🏻‍💻 About Me</h2>
 
@@ -10,7 +10,7 @@
 - 💻 My programming languages :.c, .cs, .cpp, python
 - ⚔️ Technogies and tools : .net, git, postgresql, 
 - 🌱 Learning all about Najot Ta'lim
-- 📫 Connect with me: [telegram](https://t.me/Muhammadamin0809)
+- 📫 Connect with me: [telegram](https://t.me/ShodiyorErqoziyev)
 - ⚡️ Fun fact: I'm a huge fan of Football
 
 ## ⚡️ Stats
